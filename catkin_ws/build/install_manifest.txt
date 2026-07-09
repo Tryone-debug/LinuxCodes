@@ -1,0 +1,15 @@
+/home/p/catkin_ws/install/_setup_util.py
+/home/p/catkin_ws/install/env.sh
+/home/p/catkin_ws/install/setup.bash
+/home/p/catkin_ws/install/local_setup.bash
+/home/p/catkin_ws/install/setup.sh
+/home/p/catkin_ws/install/local_setup.sh
+/home/p/catkin_ws/install/setup.zsh
+/home/p/catkin_ws/install/local_setup.zsh
+/home/p/catkin_ws/install/setup.fish
+/home/p/catkin_ws/install/local_setup.fish
+/home/p/catkin_ws/install/.rosinstall
+/home/p/catkin_ws/install/lib/pkgconfig/learning_topic.pc
+/home/p/catkin_ws/install/share/learning_topic/cmake/learning_topicConfig.cmake
+/home/p/catkin_ws/install/share/learning_topic/cmake/learning_topicConfig-version.cmake
+/home/p/catkin_ws/install/share/learning_topic/package.xml
